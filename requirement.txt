@@ -1,0 +1,5 @@
+파워 bi 설치 링크
+https://www.microsoft.com/ko-kr/power-platform/products/power-bi/downloads
+
+git 주소
+https://github.com/soul8383/PRI_SOURCE
